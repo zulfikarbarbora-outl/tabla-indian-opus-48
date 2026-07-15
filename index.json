@@ -1,0 +1,125 @@
+{
+  "library": "tabla-indian",
+  "displayName": "Tabla / Indian Percussion",
+  "description": "Tabla beats and Indian percussion loops. Sourced from Freesound pack 23020 (DiscordantScraps Broken Drum Machine Tabla Beatz, CC-BY) + one CC0 tabla bol from mmiron.",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/DiscordantScraps/packs/23020/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/tabla-indian-opus-48",
+  "branch": "main",
+  "fileCount": 9,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/",
+  "files": [
+    {
+      "file": "tabla_beatz_19.opus",
+      "name": "tabla_beatz_19",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_19.opus",
+      "size": 50251,
+      "freesoundId": 407769,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_beatz_14.opus",
+      "name": "tabla_beatz_14",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_14.opus",
+      "size": 40841,
+      "freesoundId": 407772,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_beatz_12.opus",
+      "name": "tabla_beatz_12",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_12.opus",
+      "size": 67941,
+      "freesoundId": 407774,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_beatz_17.opus",
+      "name": "tabla_beatz_17",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_17.opus",
+      "size": 53097,
+      "freesoundId": 407775,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_beatz_18.opus",
+      "name": "tabla_beatz_18",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_18.opus",
+      "size": 49896,
+      "freesoundId": 407776,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_beatz_16.opus",
+      "name": "tabla_beatz_16",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_16.opus",
+      "size": 50405,
+      "freesoundId": 407778,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_beatz_07.opus",
+      "name": "tabla_beatz_07",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_07.opus",
+      "size": 36669,
+      "freesoundId": 407795,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_beatz_05.opus",
+      "name": "tabla_beatz_05",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_beatz_05.opus",
+      "size": 32474,
+      "freesoundId": 407797,
+      "duration": 7.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "DiscordantScraps Tabla Beatz pack"
+    },
+    {
+      "file": "tabla_bol_ghe_5.opus",
+      "name": "tabla_bol_ghe_5",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tabla-indian-opus-48/main/tabla_bol_ghe_5.opus",
+      "size": 17224,
+      "freesoundId": 130410,
+      "duration": 3.6,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "mmiron tabla bols pack"
+    }
+  ],
+  "byNote": {
+    "60": [
+      "tabla_beatz_19.opus",
+      "tabla_beatz_14.opus",
+      "tabla_beatz_12.opus",
+      "tabla_beatz_17.opus",
+      "tabla_beatz_18.opus",
+      "tabla_beatz_16.opus",
+      "tabla_beatz_07.opus",
+      "tabla_beatz_05.opus",
+      "tabla_bol_ghe_5.opus"
+    ]
+  }
+}
